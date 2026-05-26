@@ -47,7 +47,11 @@ O sistema calcula:
 ## Como executar
 
 1. Tenha o Python instalado (versão 3+)
-2. Execute no terminal:
+2. Clone o repositório:
+```bash
+git clone https://github.com/Guilherme-Rigobello/26.1.GS.GUILHERME-GUILHERME-MATEUS.git
+```
+3. Execute no terminal:
 
 ```bash
 python 26.1.GS.GUILHERME-GUILHERME-MATEUS.py
