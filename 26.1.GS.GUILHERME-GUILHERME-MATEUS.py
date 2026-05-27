@@ -1,3 +1,8 @@
+'''Guilherme do Nascimento Buosi:571661 
+Guilherme Rigobello - Representante: 569376 
+Mateus Henrique Lecesse: 569331 
+'''
+
 #  1. ENTRADA DE DADOS
 # CRIAÇÃO DAS LISTAS
 tipos_eventos = []
